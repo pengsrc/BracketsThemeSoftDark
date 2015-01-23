@@ -32,7 +32,7 @@ This extension requires Brackets Release 1.0 or newer.
 2. Open the Extension Manager
 3. Switch to "Themes" tab
 4. Click "Install from URL"
-5. Use "https://github.com/prettyxw/Brackets-SoftDark-Theme"
+5. Use "https://github.com/prettyxw/Brackets-Theme-SoftDark"
 6. Click "Install"
 
 ### Install from Package File
